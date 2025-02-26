@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "67becc40472fd64ecebef7ae"
+  },
+  "title": "El mejor profesor?",
+  "category": "67bec177e2a3ec1e285c64d4",
+  "content": "el mejor profesor es cortez",
+  "user": {
+    "$oid": "67bec264e2a3ec1e285c64dd"
+  },
+  "comments": [
+    {
+      "user": {
+        "$oid": "67becb05472fd64ecebef7a5"
+      },
+      "content": "esta equivocado el mejor profesor es brayan joj",
+      "_id": {
+        "$oid": "67becdcf472fd64ecebef7b7"
+      }
+    }
+  ],
+  "__v": 1
+}]

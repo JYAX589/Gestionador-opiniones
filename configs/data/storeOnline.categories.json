@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "67bec177e2a3ec1e285c64d4"
+  },
+  "name": "Deportes",
+  "createdBy": {
+    "$oid": "67bec0bde2a3ec1e285c64cc"
+  },
+  "createdAt": {
+    "$date": "2025-02-26T07:23:35.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T07:54:39.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67becfaa472fd64ecebef7be"
+  },
+  "name": "Internacional",
+  "createdBy": {
+    "$oid": "67bec0bde2a3ec1e285c64cc"
+  },
+  "createdAt": {
+    "$date": "2025-02-26T08:24:10.198Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T08:28:36.472Z"
+  }
+}]
